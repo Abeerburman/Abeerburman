@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=👨‍💻+B.Tech+CSE+Student;🚀+Full+Stack+Developer;💡+MERN+Stack+Enthusiast;⚡+Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=👨‍💻+B.Tech+CSE+Student+At+ITER(SOA);🚀+Full+Stack+Developer;💡+MERN+Stack+Enthusiast;⚡+Always+Learning+New+Things" />
 
 </div>
 
@@ -33,8 +33,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abeerburman&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abeerburman&theme=tokyonight"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Abeerburman">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 </p>
