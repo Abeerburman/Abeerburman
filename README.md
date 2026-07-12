@@ -1,50 +1,59 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:4B0082,50:00C9A7,75:00BFFF,100:FFD700&height=220&section=header&text=Abeer%20Burman&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSIT%20Student%20At%20ITER(SOA)%20|%20Full%20Stack%20Developer&descAlignY=58"/>
-
-</div>
+<!-- =========================================================
+     PREMIUM DARK LUXURY GITHUB PROFILE README
+     ========================================================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=👨‍💻+B.Tech+CSIT+Student;🚀+Full+Stack+Developer;💡+MERN+Stack+Enthusiast;⚡+Always+Learning+New+Things" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,30&height=220&section=header&text=Abeer%20Burman&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=9B5CFF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Building+Scalable+Software+Systems;Open+Source+Contributor" />
 
----
+<br/>
 
-# 💫 About Me
+<img src="https://img.shields.io/badge/B.Tech-CS%20Engineering-6A5ACD?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/University-SOA%20University-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-🎓 B.Tech Computer Science Student  
-💻 Passionate about Full Stack Development  
-🚀 Currently learning MERN Stack & Advanced JavaScript  
-🌱 Love building projects and exploring new technologies  
-⚡ Goal: Become a skilled Software Developer
+<br/><br/>
 
----
-
-# 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,c,git,github,vscode" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abeerburman&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abeerburman&theme=tokyonight"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/Abeerburman">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:4B0082,50:00C9A7,75:00BFFF,100:FFD700&height=120&section=footer"/>
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=6A5ACD"/>
+<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=7B2CBF"/>
+<img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=9D4EDD"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```yaml
+name: Abeer Burman
+role: Computer Science Engineer
+focus:
+  - Software Engineering
+  - Artificial Intelligence
+  - Full Stack Development
+  - Cloud Native Applications
+
+philosophy:
+  - Build scalable systems
+  - Write clean maintainable code
+  - Solve real-world problems
